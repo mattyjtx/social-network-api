@@ -1,4 +1,4 @@
-const { Thought, User } = require('../../UofA-VIRT-FSF-PT-03-2022-U-LOL/18-NoSQL/02-Homework/Main/models');
+const { Thought, User } = require('../models');
 
 const thoughtController = {
   // get all thoughts
