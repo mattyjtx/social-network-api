@@ -26,16 +26,18 @@ This is a set of API for a social network that uses a MongoDB database so that t
 
 ## GET routes
 
-![]()
+![insomnia user/thought get routes](./assets/wk%2018%20insomnia%20get%20route.gif)
 
 
 ## POST routes
 
-![]()
+![insomnia users post routes](./assets/wk%2018%20insomnia%20post%20users.gif)
+
+![insomnia thoughts post routes](./assets/wk%2018%20insomnia%20thought%20post%20route.gif)
 
 ## DELETE routes
 
-![]()
+![insomnia delete routes](./assets/wl%2018%20insomnia%20delete%20route.gif)
 
 ## Acceptance Criteria
 - GIVEN a social network API
